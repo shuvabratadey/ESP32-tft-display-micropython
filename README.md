@@ -2,7 +2,7 @@
 ST7789 driver for MicroPython
 ==================================
 
-This is a MicroPython driver for 240x240 ST7789 display without CS pin. It also supports 135x240 TTGO Display
+This is a MicroPython driver for 240x240 ST7789 display without CS pin. It also supports esp8266 Nodemcu board.
 
 
 If you create a project by esp32 and st7789 tft display

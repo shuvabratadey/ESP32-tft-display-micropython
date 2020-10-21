@@ -1,8 +1,8 @@
 # ESP32 & ST7789 tft_display driver for MicroPython
 ==================================
 
-This is a MicroPython driver for 240x240 ST7789 display without CS pin. It also supports esp8266 Nodemcu board.
-
+This is a MicroPython updated driver for 240x240 ST7789 display without CS pin. It also supports esp8266 Nodemcu board.
+Original library Link is here: https://github.com/devbis/st7789py_mpy
 
 If you create a project by esp32 and st7789 tft display
 With micropython. This is the driver to interfacing
